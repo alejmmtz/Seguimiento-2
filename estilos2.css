@@ -1,0 +1,76 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background: white;
+    margin: 20px;
+    }
+
+    header{
+        text-align: center;
+    }
+    
+    ul {
+        padding: 10px 0 10px 0;
+        margin-top: 0px;
+
+    }
+    ul li {
+        display: inline;
+        margin: 10px;
+        text-decoration: none;
+        font-weight: light;
+        font-size: 15px;
+        padding: 50px;
+    }
+
+#Nombre h1 {
+text-align: left;
+padding-left: 1500px;
+font-size: 30px;
+}
+
+#Nombre h2 {
+    text-align: left;
+    padding-left: 1500px;
+    }
+
+.education {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom: 1px black;
+}
+
+.education-container {
+    display: flex;
+}
+
+.education-element {
+    padding: 25px 25px 25px 0px;
+    width: 50%;
+    text-align: justify;
+}
+
+.borde {
+    padding-left: 25px;
+    border-left: 3px solid black;
+}
+
+.borde2 {
+    padding-left: 25px;
+    border-bottom: 3px solid black;
+    padding: 10px;
+}
+
+.menu {
+    position: relative;
+    border: 1px black;
+    border-radius: 15px;
+}
+
+.menu div {
+    position: relative;
+    width: 90%;
+    height: 8px;
+    border-radius: 10px;
+    background-color: black;
+}
